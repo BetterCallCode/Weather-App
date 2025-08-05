@@ -78,7 +78,7 @@ button:hover{
 }
 
 .hourly-forecast::-webkit-scrollbar {
-  display: none;                /* Chrome, Safari */
+  display: none;                
 }
 
 .hourly-item {
